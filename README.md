@@ -22,10 +22,6 @@
 <img src="https://komarev.com/ghpvc/?username=sujitgiri17&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=sujitgiri17&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
-
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech Student at Vishwakarma Institute of Information Technology (VIIT), Pune
