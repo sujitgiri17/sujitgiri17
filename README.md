@@ -13,9 +13,11 @@
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:sujit.giri321@gmail.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
-</a>
+<p align="center">
+  <a href="mailto:sujit.giri321@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" alt="Email"/>
+  </a>
+</p>
 </p>
 
 <p align="center">
